@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Tips Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebar">
+        <h3>Suggestions</h3>
+        <ul id="suggestions">
+            <li>What to do for headache?</li>
+            <li>Tell me a health tip</li>
+            <li>How to manage stress?</li>
+            <li>Tips for skin care</li>
+            <li>What to eat in diabetes?</li>
+            <li>Suggest something for fever</li>
+        </ul>
+    </div>
+    <div class="chat-container">
+        <div class="chat-box" id="chatBox"></div>
+        <div class="chat-input">
+            <input type="text" id="userInput" placeholder="Ask your health question...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
