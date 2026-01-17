@@ -1,31 +1,55 @@
-Web-Based Healthcare Chatbot for Non-Severe Health Guidance
+# Healthcare Chatbot for Basic Health Assistance  
+*(Web-Based Application)*
 
-This project presents a web-based healthcare chatbot developed using HTML, CSS, and JavaScript. The system is designed to provide basic health-related information and general wellness guidance for common, non-severe conditions. The chatbot aims to improve health awareness and promote informed decision-making while clearly avoiding medical diagnosis, prescription, or emergency advice. The application runs entirely on the client side and requires no backend infrastructure.
+## Project Overview  
+This project presents a **web-based Healthcare Chatbot** developed using **HTML, CSS, and JavaScript**, aimed at providing **basic health guidance for non-severe medical conditions**. The system is designed for **educational and informational purposes only**, focusing on general wellness, preventive care, and common day-to-day health concerns.
 
- Objectives
-- To design and implement a simple healthcare chatbot using front-end web technologies  
-- To provide basic health guidance for minor and non-critical conditions  
-- To promote health awareness and preventive care practices  
-- To ensure ethical boundaries by excluding severe disease diagnosis and treatment  
+The chatbot does **not** perform medical diagnosis, prescribe medication, or handle emergency or critical health conditions.
 
-Scope of the Project
-The chatbot is limited to providing information related to:
-- Mild symptoms (e.g., headache, common cold, fatigue)
-- Basic lifestyle and wellness tips
-- Preventive health advice
+🔗 **Live Project Link:**  
+https://coderbird1718.github.io/Health_Care_ChatBot/
 
-The system does not handle:
-- Severe or chronic diseases
-- Emergency medical situations
-- Diagnostic or prescription-based responses
+## Objectives  
+- To design a simple and interactive chatbot interface using front-end web technologies  
+- To provide basic health awareness and lifestyle guidance  
+- To promote responsible use of digital health tools within ethical boundaries  
+- To demonstrate chatbot logic implementation using JavaScript  
 
-Technologies Used
-- HTML – Used to structure the chatbot interface  
-- CSS – Used for layout design, styling, and responsiveness  
-- JavaScript – Used to implement chatbot logic and user interaction  
+## Scope of the System  
+The chatbot responds to **non-critical health-related queries**, such as:
+- Mild fever, cold, and headache  
+- General fatigue and stress  
+- Hydration, sleep, and basic wellness tips  
 
- System Architecture
-The application follows a client-side architecture where:
-- User input is captured via the web interface  
-- JavaScript processes the input using predefined logic and keyword matching  
-- Appropriate responses are displayed dynamically
+## Technologies Used  
+- **HTML** – Structure and layout of the web application  
+- **CSS** – Styling and responsive user interface  
+- **JavaScript** – Chatbot logic and user interaction handling  
+
+## System Architecture  
+The application follows a **client-side architecture**, where:
+- User input is received through the web interface  
+- JavaScript processes predefined health-related keywords  
+- Appropriate responses are displayed instantly without server interaction  
+
+## Project Structure  
+
+Health_Care_ChatBot/
+│
+├── index.html     – Main user interface
+├── style.css      – Styling and layout
+├── script.js      – Chatbot logic
+└── README.md      – Project documentation
+
+## Ethical Considerations  
+This project strictly adheres to ethical guidelines by:
+- Including clear health disclaimers  
+- Avoiding diagnostic or prescriptive responses  
+- Encouraging professional medical consultation when necessary  
+
+## Conclusion  
+The Healthcare Chatbot demonstrates how **front-end web technologies** can be effectively used to build an interactive and user-friendly health awareness tool. While limited in medical scope, the system serves as a strong foundation for understanding chatbot design, human-computer interaction, and responsible digital health communication.
+
+## Disclaimer  
+This application is intended **only for academic and educational use** and should not be considered a substitute for professional medical advice.
+
