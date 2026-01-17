@@ -1,5 +1,4 @@
 # Healthcare Chatbot for Basic Health Assistance  
-*(Web-Based Application)*
 
 ## Project Overview  
 This project presents a **web-based Healthcare Chatbot** developed using **HTML, CSS, and JavaScript**, aimed at providing **basic health guidance for non-severe medical conditions**. The system is designed for **educational and informational purposes only**, focusing on general wellness, preventive care, and common day-to-day health concerns.
@@ -49,7 +48,3 @@ This project strictly adheres to ethical guidelines by:
 
 ## Conclusion  
 The Healthcare Chatbot demonstrates how **front-end web technologies** can be effectively used to build an interactive and user-friendly health awareness tool. While limited in medical scope, the system serves as a strong foundation for understanding chatbot design, human-computer interaction, and responsible digital health communication.
-
-## Disclaimer  
-This application is intended **only for academic and educational use** and should not be considered a substitute for professional medical advice.
-
